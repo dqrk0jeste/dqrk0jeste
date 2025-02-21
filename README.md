@@ -2,7 +2,7 @@
 My name is Darko and I am a student at The School of Electrical Engineering in Belgrade. I enjoy programming and making stuff I personally find useful.
 
 ### My projects
-- owl [source](https://github.com/dqrk0jeste/owl) - Tiling wayland compositor written in C made to fit my taste and needs. Actively in development, but ready to use!
+- mwc [source](https://github.com/dqrk0jeste/mwc) - Tiling wayland compositor written in C primarily made to fit my taste and needs, but grown up to a fairly large project packing a lot of features!
 
 Other projects that are either too simple or unfinished to be featured up there
 - Terminal Snake [source](https://github.com/dqrk0jeste/ncurses-snake) - Popular snake game in your terminal. Written in C using ncurses library.
